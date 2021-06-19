@@ -10,7 +10,7 @@ export default function Home({ results }) {
     <div>
       <Head>
         <title>Dynamic Gravity</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" />
       </Head>
       {/* header */}
       <Header />

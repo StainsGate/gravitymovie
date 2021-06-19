@@ -22,9 +22,10 @@ function Header() {
       </div>
       <Image
         className="object-contain"
-        src="https://links.papareact.com/ua6"
-        width={200}
+        src="/gravity.png"
+        width={300}
         height={100}
+        alt="logo"
       />
     </header>
   );
